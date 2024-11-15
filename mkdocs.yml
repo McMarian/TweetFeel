@@ -1,0 +1,13 @@
+site_name: TweetFeel Documentation
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: purple
+nav:
+  - Home: index.md
+  - Technical Documentation:
+    - Installation: installation.md
+    - Usage: usage.md
+    - AI Implementation: ai_implementation.md
+  - Contributing: contributing.md 

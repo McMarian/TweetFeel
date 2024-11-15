@@ -1,0 +1,22 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Model files
+*.pkl
+
+# Output
+output/
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Documentation build
+site/ 
